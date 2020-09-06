@@ -1,0 +1,82 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<meta name= "keyword" content= "My Profile page" />
+<meta charset="UTF-8" />
+<meta name="viewport" content= "width=device-width, initial-scale=1.0" />
+<title>Layout of a web page</title>
+</head>
+<body>
+<header>
+<h1>Coding Bloacks Junior</h1>
+</header>
+<navbar>
+<h3>Images      Videos        Map        </h3>
+<h3></h3>
+<h3></h3>
+</navbar>
+<main>
+<section>
+<h3>India</h3>
+<p>
+Pellentesque mollis ullamcorper quam sed tempor. Sed sapien risus, egestas et enim ac, pharetra porttitor felis. Nunc interdum ligula nisi, nec venenatis justo semper a. Phasellus vulputate convallis elementum. Vestibulum eget tristique nibh, et dapibus eros. Vestibulum sed dui eget purus elementum egestas vitae at est. Vestibulum venenatis, est vel hendrerit maximus, augue purus faucibus mi, ac tempor diam ante non libero. Duis ultricies, neque eu bibendum placerat, nulla ligula porta sem, id mollis nunc justo non lorem.
+</p>
+</section>
+<section>
+<h3>Canda</h3>
+<p>
+Sed id maximus augue. Curabitur rhoncus orci eget bibendum euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas tristique scelerisque mi, a faucibus ex porta quis. Pellentesque accumsan lacus leo, eu posuere magna congue id. In nibh lorem, tempus at tempus a, sodales ut sapien. Sed vitae dui est. Quisque aliquam sem arcu, eget congue arcu ultrices non. Nam interdum vel tortor sit amet lacinia.
+</p>
+</section>
+<section>
+<h3>ipsum</h3>
+<p>
+Donec viverra nulla vel imperdiet eleifend. Nullam eleifend scelerisque justo ac placerat. Nunc vitae elementum ante. Nulla facilisi. Etiam dignissim mattis odio, at vulputate neque tincidunt at. In hac habitasse platea dictumst. Donec sit amet tempus mauris. Cras fermentum rhoncus odio. Sed mollis, turpis nec feugiat sagittis, sapien magna venenatis metus, id hendrerit magna odio ac turpis. Nullam at commodo erat, finibus ornare odio. Maecenas feugiat finibus pharetra. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin tellus magna, lacinia vitae aliquet eget, gravida nec lacus. Integer et sapien nulla. Etiam fermentum quam blandit ligula lacinia, id lobortis erat venenatis.
+</p>
+</section>
+<section>
+<h3>Japan</h3>
+<p>
+Etiam vehicula erat orci, eget tincidunt neque ornare nec. Sed sed tincidunt ligula, a euismod purus. Aenean vel diam mollis, fermentum purus a, maximus felis. Nullam gravida, diam nec dapibus malesuada, tortor neque ullamcorper tellus, ac pulvinar quam erat vel lacus. Cras maximus dignissim blandit. Sed iaculis purus vel felis placerat tristique. Vestibulum sed eros at dolor semper convallis vitae sed enim. Vestibulum ac nunc lorem. In non metus quis tortor accumsan congue ut at sapien. Mauris varius mollis erat quis sollicitudin. Nam pretium neque in enim lobortis, non lacinia lorem dignissim. Fusce sit amet leo sed turpis vulputate pharetra eget non tellus. Aliquam congue pellentesque sem, vitae mollis leo dignissim nec.
+</p>
+</section>
+<section>
+<h3>England</h3>
+<p>
+Duis vel tincidunt ex. Nulla bibendum vestibulum velit vitae suscipit. Vestibulum convallis ultrices leo a sollicitudin. In mauris enim, venenatis eget neque quis, scelerisque euismod turpis. Cras bibendum risus sed aliquet pharetra. Donec vitae lobortis augue. Maecenas porttitor sed erat id pharetra. Mauris congue neque ut mauris fringilla, vel volutpat metus mattis. Nunc tincidunt maximus leo eu interdum.
+</p>
+</section>
+<section>
+<h3>China</h3>
+<p>
+Proin et feugiat sem. Cras non massa placerat, fringilla tellus nec, congue erat. Duis at turpis dolor. Nunc eget elit vestibulum, vehicula sem sed, egestas nibh. Pellentesque ac nulla lectus. Phasellus condimentum odio nec velit convallis euismod. Aenean euismod, orci vitae volutpat aliquam, nisi odio volutpat mi, at congue lectus odio in arcu. Praesent vestibulum dapibus aliquet.
+</p>
+</section>
+<section>
+<h3>USA</h3>
+<p>
+Vestibulum at tincidunt neque. Donec eget pellentesque diam. Donec tempus non mauris sit amet elementum. Quisque aliquet purus a odio volutpat pharetra.
+</p>
+</section>
+<aside>
+<h4>Countries</h4>
+<p>
+Proin et feugiat sem. Cras non massa placerat, fringilla tellus nec
+</p>
+<h4>states</h4>
+<p>
+Proin et feugiat sem. Cras non massa placerat, fringilla tellus nec, congue erat.
+</p>
+<h4>Cities</h4>
+<p>
+Vestibulum at tincidunt neque. Donec eget pellentesque diam.
+</p>
+</aside>
+</main>
+<footer>
+<b>facebook</b>
+<b>instragram</b>
+<b>youtube</b>
+</footer>
+</body>
+</html>
