@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Link</title>
+</head>
+<body>
+
+<h1>Coding blocks jr Web Development</h1>
+
+<!-- links are relative -->
+
+<br/><a href="#Section 2">Link to 'section 2'</a>
+<br/><a href="#Section 3">Link to 'section 3'</a>
+<br/><a href="../Class6/link-2.html#two" target="_blank">Link to another file</a>
+<br/><a href="../Class6/link-2.html#four" target="_blank">Link to go on link-2.html</a>
+<br/><a href="../Class6/link.html" target="_blank">Link to link.html file</a>
+<br/>
+<br/>
+Below we have different sections. In each section links have been used.
+
+<h2 id="Section 1">Section 1</h2>
+
+This section consist of the links which will direct us to different websites
+<br/>
+<br/><a href="https://youtube.com/" target="_blank">Youtube</a>
+<br/><a href="https://online.codingblocks.com/" target="_blank">Coding Blocks</a>
+<br/><a href="https://github.com/" target="_blank">Github</a>
+<br/><a href="https://www.google.com/" target="_blank">Google</a>
+<br/><a href="https://parenting.firstcry.com/articles/10-educational-cartoons-your-child-should-be-watching/" target="_blank">Educational Cartoons</a>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<h2 id="Section 2">Section 2</h2>
+
+This section consist of the links through which we can directly call a particular organization
+<br/>
+<a href="tel:18001801104" target="_blank">Medical helpline number</a>
+<br/><a href="tel:18008899999" target="_blank">Jio customer care helpline number</a>
+<br/><a href="tel:18002744504" target="_blank">Coding Blocks helpline number</a>
+<br/><a href="tel:911123978046" target="_blank">COVID-19 helpline number</a>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<h2 id="Section 3">Section 3</h2>
+
+This section consist of the links through which we can directly mail a particular organization
+<br/>
+<a href="mailto:admissions@codingblocks.com" target="_blank">Coding Blocks helpline E-mail</a>
+<br/><a href="mailto:agmcustomer.lhoche@sbi.co.in" target="_blank">SBI helpline E-mail ID</a>
+<br/><a href="mailto:aman.sharma@vidyamandir.com" target="_blank">Vidyamandir helpline Classes E-mail ID</a>
+<br/><a href="mailto:ncov2019@gov.in" target="_blank">COVID-19 helpline E-mail ID</a>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<h2 id="Section 4">Section 4</h2>
+
+<p><b><i>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nesciunt quas fuga iusto ipsum, nisi ea ab dolores quasi? Similique voluptatibus reiciendis non! Sed
+doloremque in harum accusamus. Ab, vero?
+</b></i></p>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<h2 id="Section 5">Section 5</h2>
+<br/>
+<p><b><i>
+Vivamus nec vestibulum nibh, eu venenatis elit. Donec accumsan tempus massa in accumsan. Sed non pulvinar justo. Nam non suscipit elit. Curabitur tellus diam, condimentum in lorem a, eleifend tincidunt est. Integer id interdum orci, in interdum nulla. Nullam id sem in nunc semper sollicitudin. Duis sed maximus enim. Aenean ac diam et lorem molestie laoreet quis nec nulla. Cras eu nisi id nibh blandit blandit eget vitae metus.</b></i>
+</p>
+</body>
+</html>
