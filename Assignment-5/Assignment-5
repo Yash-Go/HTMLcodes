@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Inserting Images,Videos,Audios</title>
+</head>
+<body>
+
+<h2><B><u>Batman</B></u></h2>
+
+Batman operates in the fictional Gotham City with his assistance from various supporting characters, including his butler Alfred, police
+commissioner Jim Gordon, and vigilante allies such as Robin. Unlike most superheroes, Batman does not possess any <b><i>inhuman
+superpowers</b></i>
+
+<h4>Images of Batman</h4>
+
+<img src="Batman pic 1.PNG" alt="Batman pic 1"
+width="260">
+<img src="Batman pic 2.PNG" alt="Batman pic 2"
+height="126" width="200"
+/>
+<br/><img src="Batman pic 3.PNG"
+height="150" width="258"
+/>
+<img src="Batman pic 4.PNG"
+height="150" width="202"
+/>
+
+<h4>Audios of Batman</h4>
+
+<audio src="Audio1.mp3"
+controls
+loop
+autoplay
+></audio>
+
+<h4>Videos of Batman</h4>
+
+<video src="BatmanVideo.mp4"
+height="150"
+controls
+autoplay
+loop
+></video>
+
+<video src="dark_knight.mp4"
+height="150"
+controls
+autoplay
+loop
+></video>
+
+</body>
+</html>
