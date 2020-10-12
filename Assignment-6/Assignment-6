@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Table</title>
+</head>
+<body>
+<table border="10" bgcolor="purple">
+<thead align="centre">
+<tr>
+<th colspan="4" bgcolor="green">First Gen Pokemon Chart</th>
+</tr>
+</thead>
+<tbody align="center">
+<tr bgcolor="Green">
+<th>Image</th>
+<th>Name</th>
+<th>Type</th>
+<th>Evolves into</th>
+</tr>
+
+<tr bgcolor="yellow">
+<td><img src="Pic 1.PNG"/></td>
+<td>Bulbasaur</td>
+<td>Grass/Poison</td>
+<td><a href="https://www.pokemon.com/us/pokedex/ivysaur">Ivysaur</a></td>
+</tr>
+
+<tr bgcolor="yellow">
+<td><img src="Pic 2.PNG"/></td>
+<td>Charmander</td>
+<td>Fire</td>
+<td><a href="https://in.portal-pokemon.com/play/pokedex/005">Charmeleon</a></td>
+</tr>
+
+<tr bgcolor="yellow">
+<td><img src="Pic 3.PNG"/></td>
+<td>Squirtle</td>
+<td>Water</td>
+<td><a href="https://in.portal-pokemon.com/play/pokedex/008">Wartortle</a></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
