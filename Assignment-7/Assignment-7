@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iframe and Embeding</title>
+</head>
+<body>
+<h2>Welcome! To Coding Blocks junior website</h2>
+
+<Iframe src="https://online.codingblocks.com/"
+height="500"
+width="800"
+scrolling="no"
+></Iframe>
+
+<h2><u>Some Portion of other page :</u></h2>
+
+<Iframe src="Document.html#ef"
+scrolling="no"
+></Iframe>
+
+<Iframe src="Document.html#ab"
+scrolling="no"
+></Iframe>
+
+<Iframe src="Document.html#cd"
+scrolling="no"
+></Iframe>
+
+<h2><u>Embeding some videos :</u></h2>
+
+<embed src="https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4" type="video/mp4"
+Height="300"
+width="500"
+>
+
+<embed src="Youtubevideo.PNG" type="image/PNG"
+Height="300"
+width="500"
+>
+</body>
+</html>
